@@ -1,13 +1,14 @@
   # Task1
-Welcome to Mytask1
-</br>
-
-<pre>
-<?php>
-
-print'ifconfig';
-print"Hello"
-echo "<img src='path/to/terraimg.jpg' />"
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>WELCOME TO MYTASK1</title>
+</head>
+<body>
+ 
+<?php
+    echo "<img src='path/to/terraimge.jpg' alt='photo of me' />";
 ?>
-
-</pre>
+ 
+</body>
+</html>
