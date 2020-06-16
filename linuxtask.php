@@ -7,6 +7,7 @@ Welcome to Mytask1
 
 print'ifconfig';
 print"Hello"
+echo "<img src='path/to/terraimg.jpg' />"
 ?>
 
 </pre>
